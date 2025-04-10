@@ -5,7 +5,7 @@
     <h2>Tomcat server. admin is Han. </h2>
     <hr>
     <h1>${msg}</h1>
-	<h1>Oh! nice to see Win10 server!!!</h1>
+	<h1>Oh! nice to see ubuntu server!!!</h1>
     <h1>Hi there -> new update-test !!!</h1>
 	<h1>Hello World!</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
